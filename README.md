@@ -6,14 +6,13 @@ This repository contains my Java programming lab assignments completed as part o
 
 - **Subject:** Java Programming Lab
 - **Language:** Java
-- **IDE:** IntelliJ IDEA / Eclipse / VS Code
 - **Semester:** 3rd Semester
-- **University:** MAKAUT
+- **University:** IILM University Greater Noida
 
 ## 📂 Repository Structure
 
 ```
-Java Class/
+JavaClass/
 ├── Assignment 1/
 ├── Assignment 2/
 ├── Assignment 3/
@@ -26,30 +25,16 @@ Each assignment contains the source code and any required files.
 ## 🚀 Topics Covered
 
 - Java Basics
-- Variables & Data Types
-- Operators
-- Conditional Statements
-- Loops
-- Methods
-- Arrays
-- Strings
-- Object-Oriented Programming
-- Classes & Objects
-- Constructors
-- Inheritance
-- Polymorphism
-- Abstraction
-- Encapsulation
-- Exception Handling
-- File Handling
-- Collections Framework
+.
+.
+.
 
 ## ▶️ Running the Programs
 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
+git clone https://github.com/suryadeep-banerjee/25SCS1003001362_Suryadeep_Banerjee_JavaClass
 ```
 
 2. Open the project in your preferred Java IDE.

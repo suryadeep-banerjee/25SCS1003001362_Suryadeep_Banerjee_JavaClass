@@ -2,14 +2,14 @@
 
 This repository contains my Java programming lab assignments completed as part of the Computer Science & Engineering curriculum.
 
-## 📚 Course Information
+## Course Information
 
 - **Subject:** Java Programming Lab
 - **Language:** Java
 - **Semester:** 3rd Semester
 - **University:** IILM University Greater Noida
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 JavaClass/
@@ -22,14 +22,14 @@ JavaClass/
 
 Each assignment contains the source code and any required files.
 
-## 🚀 Topics Covered
+## Topics Covered
 
 - Java Basics
 .
 .
 .
 
-## ▶️ Running the Programs
+## Running the Programs
 
 1. Clone the repository
 
@@ -48,11 +48,11 @@ javac FileName.java
 java FileName
 ```
 
-## 🎯 Purpose
+## Purpose
 
 This repository serves as a collection of Java lab exercises completed during coursework for practice, learning, and future reference.
 
-## 📌 Note
+## Note
 
 These programs are created for educational purposes. Some solutions may have multiple valid implementations depending on the assignment requirements.
 
@@ -60,6 +60,6 @@ These programs are created for educational purposes. Some solutions may have mul
 
 **Author**
 
-**Suryadeep Banerjee**
+**[Suryadeep Banerjee](https://suryadeepbanerjee.in)**
 
 B.Tech Computer Science & Engineering

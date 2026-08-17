@@ -9,7 +9,7 @@ class Prg5 {
 		String pass = sc.nextLine();
 		sc.close();
 
-		int l = passsc.close();.length();
+		int l = pass.length();
 
 		if (l < 8) {
 			System.out.println("Password is less than 8 characters.");

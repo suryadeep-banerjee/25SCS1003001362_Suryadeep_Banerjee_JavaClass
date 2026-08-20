@@ -7,7 +7,6 @@ public class Prg1 {
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
 		sc.close();
-
 		if (n != 0) {
 			if (n > 0) {
 				System.out.println("Positive number");

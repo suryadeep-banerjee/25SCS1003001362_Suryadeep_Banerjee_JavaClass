@@ -14,7 +14,6 @@ public class Max {
 
 	public static void main(String[] args) {
 		Max m = new Max();
-
 		System.out.println("Maximum of two integers: " + m.max(10, 20));
 		System.out.println("Maximum of three integers: " + m.max(10, 50, 30));
 		System.out.println("Maximum of two decimal numbers: " + m.max(25.5, 20.8));

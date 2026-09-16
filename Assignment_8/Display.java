@@ -17,13 +17,10 @@ public class Display {
 
 	public static void main(String[] args) {
 		Display d = new Display();
-
 		d.show("Rahul");
 		System.out.println();
-
 		d.show("Rahul", 20);
 		System.out.println();
-
 		d.show("Rahul", 20, 85.5);
 	}
 }

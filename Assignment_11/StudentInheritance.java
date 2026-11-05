@@ -34,7 +34,7 @@ class Student extends Person {
 	}
 }
 
-public class Main {
+public class StudentInheritance {
 
 	public static void main(String[] args) {
 		Student s = new Student("Rahul Sharma", 20, "rahul@gmail.com", 101, "CSE");

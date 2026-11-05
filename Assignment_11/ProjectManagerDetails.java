@@ -53,7 +53,7 @@ class ProjectManager extends Manager {
 	}
 }
 
-public class MultilevelInheritanceDemo {
+public class ProjectManagerDetails {
 
 	public static void main(String[] args) {
 		ProjectManager pm = new ProjectManager(101, "Rahul Sharma", 60000, "IT", 10, "Cloud Management System", 12);

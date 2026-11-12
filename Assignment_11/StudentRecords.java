@@ -33,10 +33,8 @@ public class StudentRecords {
 	public static void main(String[] args) {
 		Student s1 = new Student();
 		Student s2 = new Student(101, "Rahul Sharma", "CSE", 20);
-
 		System.out.println("Default Constructor:");
 		s1.displayDetails();
-
 		System.out.println("Parameterized Constructor:");
 		s2.displayDetails();
 	}

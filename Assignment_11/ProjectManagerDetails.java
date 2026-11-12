@@ -57,7 +57,6 @@ public class ProjectManagerDetails {
 
 	public static void main(String[] args) {
 		ProjectManager pm = new ProjectManager(101, "Rahul Sharma", 60000, "IT", 10, "Cloud Management System", 12);
-
 		System.out.println("Project Manager Details:");
 		pm.displayDetails();
 	}

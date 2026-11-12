@@ -38,10 +38,8 @@ public class StudentInheritance {
 
 	public static void main(String[] args) {
 		Student s = new Student("Rahul Sharma", 20, "rahul@gmail.com", 101, "CSE");
-
 		System.out.println("Personal Details:");
 		s.displayPersonDetails();
-
 		System.out.println("Academic Details:");
 		s.displayStudentDetails();
 	}

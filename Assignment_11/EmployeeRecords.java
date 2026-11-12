@@ -41,13 +41,10 @@ public class EmployeeRecords {
 		Employee e1 = new Employee();
 		Employee e2 = new Employee(101, "Rahul", "Developer", 50000);
 		Employee e3 = new Employee(e2);
-
 		System.out.println("Default Constructor:");
 		e1.displayDetails();
-
 		System.out.println("Parameterized Constructor:");
 		e2.displayDetails();
-
 		System.out.println("Copy Constructor:");
 		e3.displayDetails();
 	}
